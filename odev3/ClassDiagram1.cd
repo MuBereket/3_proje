@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="odev3.Kisi" Collapsed="true">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAIAAAACAAAAAACAAA=</HashCode>
+      <FileName>Kisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="odev3.Editor" Collapsed="true">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Editor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="odev3.Yazar" Collapsed="true">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Yazar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="odev3.EditorKitapG" Collapsed="true">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAIAAAACBAAAAAQAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>C:\Users\bayan\source\repos\odev3\odev3\ُEditorKitapG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="odev3.kitapInceleme" Collapsed="true">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAASIAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Kitap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="odev3.Kitap" Collapsed="true">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAgAAAAAAggAAAIBAAAAAAAAAAACAACACg=</HashCode>
+      <FileName>Kitap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="odev3.YayinEvi" Collapsed="true">
+    <Position X="5.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAgAAAAAAAAAAEAEAIACAIAACAQAAAgAgQgAQCAUAQI=</HashCode>
+      <FileName>YayinEvi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="odev3.Program" Collapsed="true">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="odev3.writeF" Collapsed="true">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAgAAAAAAAQAEAACCAAAAAAAAEEAABAAAAIQAAA=</HashCode>
+      <FileName>writeF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="odev3.readF" Collapsed="true">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAoAAAAIAABAAAAAQAgCAAAIgAAIggAACIAAAIACAAA=</HashCode>
+      <FileName>readF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="odev3.EditorIncEnum" Collapsed="true">
+    <Position X="9" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAIAAA=</HashCode>
+      <FileName>C:\Users\bayan\source\repos\odev3\odev3\ُEditorKitapG.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="odev3.KitapDurumEnum" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Kitap.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>
